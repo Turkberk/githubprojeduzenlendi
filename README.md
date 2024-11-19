@@ -1,0 +1,2 @@
+# githubprojeduzenlendi
+Projenin tamamlanmış hali.
